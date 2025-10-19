@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title>Deep Down AI - By Essmats</title>
+  <desc>Minimalist logo for Deep Down AI featuring layered waves forming a drop with initials overlap.</desc>
+  <defs>
+    <linearGradient id="deepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#020617"/>
+  <path d="M64 18c-18 18-32 34-32 52s14 30 32 30 32-12 32-30S82 36 64 18z" fill="url(#deepGradient)" opacity="0.85"/>
+  <path d="M64 40c-11 11-20 20-20 32 0 12 9 20 20 20s20-8 20-20c0-12-9-21-20-32z" fill="#0f172a" opacity="0.65"/>
+  <text x="50%" y="58%" text-anchor="middle" font-family="'Geist Sans', 'Inter', sans-serif" font-size="28" font-weight="600" fill="#e2e8f0" letter-spacing="2">DD</text>
+  <text x="50%" y="76%" text-anchor="middle" font-family="'Geist Mono', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#38bdf8" letter-spacing="6">AI</text>
+</svg>
